@@ -4,11 +4,7 @@ Inspiration taken from: JD Brick Productions<br>
 https://www.youtube.com/watch?v=3D7FU_AtVY4<br>
 <br>
 
-![](pics/0-play.mp4)
-<br>
-<video width="320" height="240" controls>
-  <source src="pics/0-play.mp4" type="video/mp4">
-</video>
+![Pinball demo](pics/0-play.gif)
 ## Differences with the original version<br>
 <br>
 - Handles work with a push mechanism (didn't have the pieces to make it work like the original)<br>

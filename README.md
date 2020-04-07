@@ -1,4 +1,4 @@
-# pinball-lego-machine-covid19
+# pinball-lego-machine
 Inspiration taken from: JD Brick Productions<br>
 https://www.youtube.com/watch?v=3D7FU_AtVY4<br>
 <br>
